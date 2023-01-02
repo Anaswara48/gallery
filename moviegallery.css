@@ -1,0 +1,97 @@
+body{
+    background-color: black;
+}
+h3{
+    background-color: rgb(0, 128, 0);
+    text-align: center;
+    color: brown;
+    padding: 2px;
+}
+div{
+    width: 240px;
+    height: 700px;
+    background-color: rgb(7, 6, 6);
+    float: left;
+    border: rgb(138, 12, 12) 3px solid;
+    color: aliceblue;
+    text-align: center; 
+    position: relative;
+    border-radius: 41px; 
+}
+
+h2{
+    color: darkgoldenrod;
+    padding: 8px;
+}
+ @import url('https://fonts.googleapis.com/css2?family=Anton&family=Caramel&family=Dancing+Script&family=Great+Vibes&family=Rubik+Vinyl&family=Sevillana&display=swap');
+p{
+    text-align: left;
+    font-size: small;
+    font-family: 'Sevillana', cursive;
+}
+.a{ 
+    width: 193px;
+    height: 42px;
+    left: 8%;
+    top: 622px;
+    text-align: center;
+    background-color: rgb(213, 235, 15);
+    position: absolute;
+padding-top:19px;
+    color: black;
+    border-color: rgb(11, 155, 212);
+    
+}
+.b{
+width: 193px;
+    height: 42px;
+    left: 8%;
+    top: 622px;
+    text-align: center;
+    background-color: rgb(213, 235, 15);
+    position: absolute;
+padding-top:19px;
+    color: black;
+    border-color: rgb(11, 155, 212);
+}
+.c{
+    width: 193px;
+        height: 42px;
+        left: 8%;
+        top: 622px;
+        text-align: center;
+        background-color: rgb(213, 235, 15);
+        position: absolute;
+    padding-top:19px;
+        color: black;
+        border-color: rgb(11, 155, 212);
+    }
+    .d{
+        width: 193px;
+            height: 42px;
+            left: 8%;
+            top: 622px;
+            text-align: center;
+            background-color: rgb(213, 235, 15);
+            position: absolute;
+        padding-top:19px;
+            color: black;
+            border-color: rgb(11, 155, 212);
+        }
+        .e{
+            width: 193px;
+                height: 42px;
+                left: 8%;
+                top: 622px;
+                text-align: center;
+                background-color: rgb(213, 235, 15);
+                position: absolute;
+            padding-top:19px;
+                color: black;
+                border-color: rgb(11, 155, 212);
+            }
+img{
+    width: 97%;
+    height: 174px;
+    border-radius: 30px;
+}
